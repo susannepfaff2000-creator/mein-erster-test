@@ -1,0 +1,57 @@
+# Mein erstes Testprojekt
+
+Dies ist mein erstes eigenes GitHub-Projekt im Bereich **Software Testing**.  
+Ich habe es erstellt, um die Grundlagen von **Testplanung, Testdokumentation und automatisierten Tests** zu lernen.
+
+---
+
+## Ziel des Projekts
+Ich wollte herausfinden, wie man als Tester:
+- einen **Testplan** schreibt  
+- **Versionen und Änderungen** mit GitHub verwaltet  
+- mit **Branches** und **Pull Requests** arbeitet  
+- einfache **automatisierte Tests** mit **PyTest** erstellt  
+- und mit **GitHub Actions** überprüft, ob alles korrekt ist  
+
+---
+
+## Inhalte
+- **TESTPLAN.md** → enthält meinen Testplan für die Login-Funktion  
+- **tests/test_testplan.py** → führt kleine Prüfungen auf die Struktur des Testplans aus  
+- **.github/workflows/ci.yml** → startet automatisch alle Tests bei jedem Commit  
+
+---
+
+## Automatisierte Tests
+Beim Hochladen wird mein Projekt automatisch von GitHub geprüft.  
+Momentan zeigt der Testlauf noch einen **Fehler (Failure)** –  
+das gehört zu meinem Lernprozess.  
+Ich möchte verstehen, wie Tests fehlschlagen und wie man sie anschließend verbessert.  
+
+---
+
+## Mein Lernweg
+Ich habe mit diesem Projekt gelernt:
+- wie man einen Testplan strukturiert  
+- was Commits, Branches, Pull Requests und Actions sind  
+- wie man schrittweise ein Test-Repository aufbaut  
+- dass Fehler im Prozess **keine Rückschläge**, sondern **Teil des Lernens** sind ❤️  
+
+---
+
+## Hinweis
+Dieses Projekt ist im Rahmen meines Lernens entstanden.  
+Ich habe Unterstützung dabei bekommen, die einzelnen GitHub-Schritte zu verstehen und richtig umzusetzen.  
+Der Inhalt ist von mir selbst erstellt, um zu lernen, wie Software-Tester arbeiten.
+
+---
+
+## Nächste Schritte
+- Den automatisierten Test verbessern  
+- Weitere Testfälle ergänzen  
+- Fehlerbehebung üben  
+- Zweites Projekt starten (z. B. Testen einer kleinen Web-App)
+
+---
+
+**Stand:** Oktober 2025 
