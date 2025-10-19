@@ -11,3 +11,7 @@ Ich möchte prüfen, ob der Login korrekt funktioniert.
 2. **Login mit falschem Passwort**
  - **Schritte:** Passwort absichtlich falsch eingeben
  - **Erwartet:** Fehlermeldung „Passwort ungültig“
+
+3.**Login mit Leerem Passwortfeld**
+ - **Schritte:** Benutzername eingeben, Passwort Leer Lassen
+ - **Erwartet:** Hinweis „Bitte Passwort eingeben“  
